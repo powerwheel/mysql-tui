@@ -47,7 +47,7 @@
 Requires Rust **1.88 or newer** (2024 edition, let-chains).
 
 ```bash
-git clone https://github.com/<you>/mysql_tui.git
+git clone https://github.com/powerwheel/mysql_tui.git
 cd mysql_tui
 cargo install --path .
 ```
